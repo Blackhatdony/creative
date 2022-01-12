@@ -66,6 +66,9 @@
     float: none;
     margin: 0;
   }
+ .box h2{
+ font-size:20px;
+ }
   .box a i{
     padding: 15px;
   }
