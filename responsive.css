@@ -72,10 +72,10 @@
     height: auto;
   }
   .blog:nth-child(1){
-    padding: 70px 40px;
+    padding: 70px 20px;
 }
 .blog:nth-child(4){
-    padding: 70px 40px;
+    padding: 70px 20px;
 }
 .box3 .theme2 , .box3 .theme3{
   font-weight: 400;
